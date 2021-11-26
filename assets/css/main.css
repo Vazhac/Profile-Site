@@ -2972,11 +2972,11 @@ input, select, textarea {
 		background-size: auto, cover;
 	}
 
-	body.is-touch .poptrox-popup .nav-next,
+	/* body.is-touch .poptrox-popup .nav-next,
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
-	} */
+	} */ */
 
 /* XLarge */
 
@@ -3183,14 +3183,14 @@ input, select, textarea {
 
 		/* Poptrox */
 
-			.poptrox-popup {
+			/* .poptrox-popup {
 				border-radius: 0;
 			}
 
 				.poptrox-popup .nav-next:before,
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
-				}
+				} */
 
 	}
 
